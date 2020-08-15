@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:rescuedox-cache
 EELAYER 26 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
-Sheet 2 3
+Sheet 1 1
 Title "Rescuedox Keyboard (Right Side)"
 Date "2020-08-15"
 Rev "0.1"
@@ -20,8 +19,10 @@ U 1 1 5F37291D
 P 3800 1300
 F 0 "SW18" H 3800 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 3800 1487 50  0001 C CNN
-F 2 "" H 3800 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 3800 1300 50  0001 C CNN
 F 3 "" H 3800 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    3800 1300
 	1    0    0    -1  
 $EndComp
@@ -1009,8 +1010,10 @@ U 1 1 5F53DAEF
 P 3800 1800
 F 0 "SW28" H 3800 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 3800 1987 50  0001 C CNN
-F 2 "" H 3800 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 3800 1800 50  0001 C CNN
 F 3 "" H 3800 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    3800 1800
 	1    0    0    -1  
 $EndComp
@@ -1020,8 +1023,10 @@ U 1 1 5F53DE03
 P 3800 2300
 F 0 "SW38" H 3800 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 3800 2487 50  0001 C CNN
-F 2 "" H 3800 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 3800 2300 50  0001 C CNN
 F 3 "" H 3800 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    3800 2300
 	1    0    0    -1  
 $EndComp
@@ -1033,8 +1038,10 @@ U 1 1 5F53F5FB
 P 3800 2800
 F 0 "SW48" H 3800 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 3800 2987 50  0001 C CNN
-F 2 "" H 3800 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 3800 2800 50  0001 C CNN
 F 3 "" H 3800 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    3800 2800
 	1    0    0    -1  
 $EndComp
@@ -1044,8 +1051,10 @@ U 1 1 5F53F812
 P 3800 3300
 F 0 "SW58" H 3800 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 3800 3487 50  0001 C CNN
-F 2 "" H 3800 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 3800 3300 50  0001 C CNN
 F 3 "" H 3800 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    3800 3300
 	1    0    0    -1  
 $EndComp
@@ -1055,8 +1064,10 @@ U 1 1 5F540841
 P 4500 1300
 F 0 "SW19" H 4500 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 4500 1487 50  0001 C CNN
-F 2 "" H 4500 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 4500 1300 50  0001 C CNN
 F 3 "" H 4500 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    4500 1300
 	1    0    0    -1  
 $EndComp
@@ -1066,8 +1077,10 @@ U 1 1 5F54084C
 P 4500 1800
 F 0 "SW29" H 4500 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 4500 1987 50  0001 C CNN
-F 2 "" H 4500 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 4500 1800 50  0001 C CNN
 F 3 "" H 4500 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    4500 1800
 	1    0    0    -1  
 $EndComp
@@ -1077,8 +1090,10 @@ U 1 1 5F540853
 P 4500 2300
 F 0 "SW39" H 4500 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 4500 2487 50  0001 C CNN
-F 2 "" H 4500 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 4500 2300 50  0001 C CNN
 F 3 "" H 4500 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    4500 2300
 	1    0    0    -1  
 $EndComp
@@ -1088,8 +1103,10 @@ U 1 1 5F54085A
 P 4500 2800
 F 0 "SW49" H 4500 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 4500 2987 50  0001 C CNN
-F 2 "" H 4500 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 4500 2800 50  0001 C CNN
 F 3 "" H 4500 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    4500 2800
 	1    0    0    -1  
 $EndComp
@@ -1099,8 +1116,10 @@ U 1 1 5F540861
 P 4500 3300
 F 0 "SW59" H 4500 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 4500 3487 50  0001 C CNN
-F 2 "" H 4500 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 4500 3300 50  0001 C CNN
 F 3 "" H 4500 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    4500 3300
 	1    0    0    -1  
 $EndComp
@@ -1110,8 +1129,10 @@ U 1 1 5F57DE04
 P 5200 1300
 F 0 "SW110" H 5200 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5200 1487 50  0001 C CNN
-F 2 "" H 5200 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5200 1300 50  0001 C CNN
 F 3 "" H 5200 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5200 1300
 	1    0    0    -1  
 $EndComp
@@ -1121,8 +1142,10 @@ U 1 1 5F57DE0B
 P 5200 1800
 F 0 "SW210" H 5200 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5200 1987 50  0001 C CNN
-F 2 "" H 5200 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5200 1800 50  0001 C CNN
 F 3 "" H 5200 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5200 1800
 	1    0    0    -1  
 $EndComp
@@ -1132,8 +1155,10 @@ U 1 1 5F57DE12
 P 5200 2300
 F 0 "SW310" H 5200 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5200 2487 50  0001 C CNN
-F 2 "" H 5200 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5200 2300 50  0001 C CNN
 F 3 "" H 5200 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5200 2300
 	1    0    0    -1  
 $EndComp
@@ -1143,8 +1168,10 @@ U 1 1 5F57DE19
 P 5200 2800
 F 0 "SW410" H 5200 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5200 2987 50  0001 C CNN
-F 2 "" H 5200 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5200 2800 50  0001 C CNN
 F 3 "" H 5200 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5200 2800
 	1    0    0    -1  
 $EndComp
@@ -1154,8 +1181,10 @@ U 1 1 5F57DE20
 P 5200 3300
 F 0 "SW510" H 5200 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5200 3487 50  0001 C CNN
-F 2 "" H 5200 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5200 3300 50  0001 C CNN
 F 3 "" H 5200 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5200 3300
 	1    0    0    -1  
 $EndComp
@@ -1165,8 +1194,10 @@ U 1 1 5F589E01
 P 5900 1300
 F 0 "SW111" H 5900 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5900 1487 50  0001 C CNN
-F 2 "" H 5900 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5900 1300 50  0001 C CNN
 F 3 "" H 5900 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5900 1300
 	1    0    0    -1  
 $EndComp
@@ -1176,8 +1207,10 @@ U 1 1 5F589E08
 P 5900 1800
 F 0 "SW211" H 5900 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5900 1987 50  0001 C CNN
-F 2 "" H 5900 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5900 1800 50  0001 C CNN
 F 3 "" H 5900 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5900 1800
 	1    0    0    -1  
 $EndComp
@@ -1187,8 +1220,10 @@ U 1 1 5F589E0F
 P 5900 2300
 F 0 "SW311" H 5900 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5900 2487 50  0001 C CNN
-F 2 "" H 5900 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5900 2300 50  0001 C CNN
 F 3 "" H 5900 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5900 2300
 	1    0    0    -1  
 $EndComp
@@ -1198,8 +1233,10 @@ U 1 1 5F589E16
 P 5900 2800
 F 0 "SW411" H 5900 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5900 2987 50  0001 C CNN
-F 2 "" H 5900 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5900 2800 50  0001 C CNN
 F 3 "" H 5900 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5900 2800
 	1    0    0    -1  
 $EndComp
@@ -1209,8 +1246,10 @@ U 1 1 5F589E1D
 P 5900 3300
 F 0 "SW511" H 5900 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 5900 3487 50  0001 C CNN
-F 2 "" H 5900 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 5900 3300 50  0001 C CNN
 F 3 "" H 5900 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    5900 3300
 	1    0    0    -1  
 $EndComp
@@ -1220,8 +1259,10 @@ U 1 1 5F595F0C
 P 6600 1300
 F 0 "SW112" H 6600 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 6600 1487 50  0001 C CNN
-F 2 "" H 6600 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 6600 1300 50  0001 C CNN
 F 3 "" H 6600 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    6600 1300
 	1    0    0    -1  
 $EndComp
@@ -1231,8 +1272,10 @@ U 1 1 5F595F13
 P 6600 1800
 F 0 "SW212" H 6600 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 6600 1987 50  0001 C CNN
-F 2 "" H 6600 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 6600 1800 50  0001 C CNN
 F 3 "" H 6600 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    6600 1800
 	1    0    0    -1  
 $EndComp
@@ -1242,8 +1285,10 @@ U 1 1 5F595F1A
 P 6600 2300
 F 0 "SW312" H 6600 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 6600 2487 50  0001 C CNN
-F 2 "" H 6600 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 6600 2300 50  0001 C CNN
 F 3 "" H 6600 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    6600 2300
 	1    0    0    -1  
 $EndComp
@@ -1253,8 +1298,10 @@ U 1 1 5F595F21
 P 6600 2800
 F 0 "SW412" H 6600 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 6600 2987 50  0001 C CNN
-F 2 "" H 6600 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 6600 2800 50  0001 C CNN
 F 3 "" H 6600 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    6600 2800
 	1    0    0    -1  
 $EndComp
@@ -1264,8 +1311,10 @@ U 1 1 5F595F28
 P 6600 3300
 F 0 "SW512" H 6600 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 6600 3487 50  0001 C CNN
-F 2 "" H 6600 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 6600 3300 50  0001 C CNN
 F 3 "" H 6600 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    6600 3300
 	1    0    0    -1  
 $EndComp
@@ -1275,8 +1324,10 @@ U 1 1 5F5A2022
 P 7300 1300
 F 0 "SW113" H 7300 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 7300 1487 50  0001 C CNN
-F 2 "" H 7300 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 7300 1300 50  0001 C CNN
 F 3 "" H 7300 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    7300 1300
 	1    0    0    -1  
 $EndComp
@@ -1286,8 +1337,10 @@ U 1 1 5F5A2029
 P 7300 1800
 F 0 "SW213" H 7300 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 7300 1987 50  0001 C CNN
-F 2 "" H 7300 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 7300 1800 50  0001 C CNN
 F 3 "" H 7300 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    7300 1800
 	1    0    0    -1  
 $EndComp
@@ -1297,8 +1350,10 @@ U 1 1 5F5A2030
 P 7300 2300
 F 0 "SW313" H 7300 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 7300 2487 50  0001 C CNN
-F 2 "" H 7300 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 7300 2300 50  0001 C CNN
 F 3 "" H 7300 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    7300 2300
 	1    0    0    -1  
 $EndComp
@@ -1308,8 +1363,10 @@ U 1 1 5F5A2037
 P 7300 2800
 F 0 "SW413" H 7300 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 7300 2987 50  0001 C CNN
-F 2 "" H 7300 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 7300 2800 50  0001 C CNN
 F 3 "" H 7300 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    7300 2800
 	1    0    0    -1  
 $EndComp
@@ -1319,8 +1376,10 @@ U 1 1 5F5AE012
 P 8000 1300
 F 0 "SW114" H 8000 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8000 1487 50  0001 C CNN
-F 2 "" H 8000 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8000 1300 50  0001 C CNN
 F 3 "" H 8000 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8000 1300
 	1    0    0    -1  
 $EndComp
@@ -1330,8 +1389,10 @@ U 1 1 5F5AE019
 P 8000 1800
 F 0 "SW214" H 8000 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8000 1987 50  0001 C CNN
-F 2 "" H 8000 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8000 1800 50  0001 C CNN
 F 3 "" H 8000 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8000 1800
 	1    0    0    -1  
 $EndComp
@@ -1341,8 +1402,10 @@ U 1 1 5F5AE020
 P 8000 2300
 F 0 "SW314" H 8000 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8000 2487 50  0001 C CNN
-F 2 "" H 8000 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8000 2300 50  0001 C CNN
 F 3 "" H 8000 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8000 2300
 	1    0    0    -1  
 $EndComp
@@ -1352,8 +1415,10 @@ U 1 1 5F5AE02E
 P 8000 3300
 F 0 "SW514" H 8000 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8000 3487 50  0001 C CNN
-F 2 "" H 8000 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8000 3300 50  0001 C CNN
 F 3 "" H 8000 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8000 3300
 	1    0    0    -1  
 $EndComp
@@ -1363,8 +1428,10 @@ U 1 1 5F5BA131
 P 8700 1300
 F 0 "SW115" H 8700 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8700 1487 50  0001 C CNN
-F 2 "" H 8700 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8700 1300 50  0001 C CNN
 F 3 "" H 8700 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8700 1300
 	1    0    0    -1  
 $EndComp
@@ -1374,8 +1441,10 @@ U 1 1 5F5BA138
 P 8700 1800
 F 0 "SW215" H 8700 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8700 1987 50  0001 C CNN
-F 2 "" H 8700 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8700 1800 50  0001 C CNN
 F 3 "" H 8700 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8700 1800
 	1    0    0    -1  
 $EndComp
@@ -1385,8 +1454,10 @@ U 1 1 5F5BA13F
 P 8700 2300
 F 0 "SW315" H 8700 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8700 2487 50  0001 C CNN
-F 2 "" H 8700 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8700 2300 50  0001 C CNN
 F 3 "" H 8700 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8700 2300
 	1    0    0    -1  
 $EndComp
@@ -1396,8 +1467,10 @@ U 1 1 5F5BA146
 P 8700 2800
 F 0 "SW415" H 8700 3000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8700 2987 50  0001 C CNN
-F 2 "" H 8700 2800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8700 2800 50  0001 C CNN
 F 3 "" H 8700 2800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8700 2800
 	1    0    0    -1  
 $EndComp
@@ -1407,8 +1480,10 @@ U 1 1 5F5BA14D
 P 8700 3300
 F 0 "SW515" H 8700 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 8700 3487 50  0001 C CNN
-F 2 "" H 8700 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 8700 3300 50  0001 C CNN
 F 3 "" H 8700 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    8700 3300
 	1    0    0    -1  
 $EndComp
@@ -1418,8 +1493,10 @@ U 1 1 5F5C6179
 P 9400 1300
 F 0 "SW116" H 9400 1500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 9400 1487 50  0001 C CNN
-F 2 "" H 9400 1300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 9400 1300 50  0001 C CNN
 F 3 "" H 9400 1300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    9400 1300
 	1    0    0    -1  
 $EndComp
@@ -1429,8 +1506,10 @@ U 1 1 5F5C6180
 P 9400 1800
 F 0 "SW216" H 9400 2000 50  0000 L CNN
 F 1 "SW_Push_45deg" H 9400 1987 50  0001 C CNN
-F 2 "" H 9400 1800 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 9400 1800 50  0001 C CNN
 F 3 "" H 9400 1800 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    9400 1800
 	1    0    0    -1  
 $EndComp
@@ -1440,8 +1519,10 @@ U 1 1 5F5C6187
 P 9400 2300
 F 0 "SW316" H 9400 2500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 9400 2487 50  0001 C CNN
-F 2 "" H 9400 2300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 9400 2300 50  0001 C CNN
 F 3 "" H 9400 2300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    9400 2300
 	1    0    0    -1  
 $EndComp
@@ -1451,8 +1532,10 @@ U 1 1 5F5C6195
 P 9400 3300
 F 0 "SW516" H 9400 3500 50  0000 L CNN
 F 1 "SW_Push_45deg" H 9400 3487 50  0001 C CNN
-F 2 "" H 9400 3300 50  0001 C CNN
+F 2 "rescuedox:PG151101S11" H 9400 3300 50  0001 C CNN
 F 3 "" H 9400 3300 50  0001 C CNN
+F 4 "Kaihua Electronics" H 0   0   50  0001 C CNN "Manufacturer Name"
+F 5 "PG151101S11" H 0   0   50  0001 C CNN "Manufacturer Part Number"
 	1    9400 3300
 	1    0    0    -1  
 $EndComp
