@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rescuedox)(type KiCad)(uri ${KIPRJMOD}/rescuedox.pretty)(options "")(descr ""))
+)
