@@ -30,3 +30,9 @@ I over-eagerly bought a nice set of Ergodox keycaps ([SA Vilebloom](http://www.m
 
 #### Okay, so now what?
 I still want to use these keycaps, but I want a keyboard with a slightly less insane layout. Short production run group buys being what they are, all other variants of this keycap set are completely sold out, so I probably won't be able to find the additional keys I'd need to fit most other keyboard designs. So this is a split keyboard designed for a complete set of Ergodox keycaps, but that arranges them using the more typical horizontal stagger. 
+
+
+## Layout
+This is the layout I currently have in mind. It may change slightly as the design progresses.
+
+![Layout Image](img/layout.jpg)
