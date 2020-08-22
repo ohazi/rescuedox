@@ -1,6 +1,8 @@
 # rescuedox
 A horizontally staggered split keyboard that uses a complete set of Ergodox keycaps
 
+![Layout Image](img/layout.jpg)
+
 ## Why?
 
 ### tl;dr
@@ -33,6 +35,11 @@ I still want to use these keycaps, but I want a keyboard with a slightly less in
 
 
 ## Layout
-This is the layout I currently have in mind. It may change slightly as the design progresses.
+The mockup image above represents the layout I currently have in mind, but this may change. 
 
-![Layout Image](img/layout.jpg)
+### Layout Constraints
+SA keycaps have a sculpted profile (keys in different rows have a slightly different shape):
+
+![Profile Image](img/sa_profile.png)
+
+I'd like the keys in the central area to use the correct key shape for the given row. This works out fine for the letter and number keys, but places some constraints on the modifiers, tab, caps lock, shift, enter, backspace, and `~,-,=,[,],\,'` keys. The arrow cluster also uses the correct shape (R3 for left, down, right, and R4 for up), but I don't mind if these are all flat (R3). The quad above the arrow keys is currently all flat. The stack of keys on the far left is currently all flat (R3), with an R2 at the top, even though it should be an R1. 
