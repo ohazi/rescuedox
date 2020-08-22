@@ -3,6 +3,7 @@ A horizontally staggered split keyboard that uses a complete set of Ergodox keyc
 
 ![Layout Image](img/layout.jpg)
 
+
 ## Why?
 
 ### tl;dr
@@ -47,3 +48,24 @@ I'd like the keys in the central area to use the correct key shape for their giv
 The arrow cluster currently uses the correct profile (R3 for left, down, right, and R4 for up), but I don't mind if these are all flat (R3). The quad above the arrow keys is currently all flat. The stack of keys on the far left is currently all flat (R3), except for an R2 at the top, even though this position would normally have an R1. 
 
 Judging by the shiny worn-out spot on the spacebar of my current keyboard, I mostly use my left thumb for space, centered below `v`, and extending halfway across `c` and `b`, so I'm placing a half-spacebar there, and hoping that still works when the keyboard is split and slanted. I'm not super confident that this is still a good spot -- it seems like ofsetting the spacebar keys outwards and downwards (like on Ergodox) may be better. Keeping my thumb too far inwards does seem to hold some tension in my wrist. 
+
+
+## Design
+
+- Wired USB or Bluetooth
+
+    I want this keyboard to function as either a USB or BLE HID keyboard, without needing to change firmware when switching modes. You should be able to walk up to a PC, plug in the keyboard with a USB cable, and just start using it. Similarly, you should be able to pair the keyboard with a computer via BLE and also just start using it. A switch or key combination to switch between modes is fine. 
+
+    My current plan is to use the Rigado (now u-blox) BMD-340 module, which use the nRF52840 from Nordic Semiconductor. I've used this module at work, and have found Nordic's BLE stack and power management to be quite good. The design will also need a battery and battery charging / monitoring circuitry. A USB type-C physical connector will be used for the USB 2.0 connection and for charging. The charger will probably use high current (5V, 3A) when available, but will not use power delivery.
+
+- Either half should be usable independently of the other half
+
+    If you only want to use the left or right half of the board (e.g. if you want to attach the left half to an armrest while gaming), this needs to work without any drama. As with the full keyboard, you should be able to use this half keyboard via USB or BLE. 
+
+    This means that (except for the switch matrix) the circuitry on the left and right boards will probably be pretty close to identical. Each half will also need its own battery. 
+
+- The cable connecting the left and right sides of the keyboard should be optional
+
+    If you're using the keyboard in wired USB mode, and your operating system supports multiple keyboards, and you have two free USB ports, you should theoretically be able to plug each half into the host directly using separate USB cables. In practice, however, this may not work very well, and it certainly isn't very convenient. So instead, you will also be able to connect the two halves toegether (probably using a TRRS-style cable), and then plug either half into the host using a single USB cable. It will enumerate as a single USB HID keyboard containing all of the keys on both halves. 
+    
+    The same concept applies when using the keyboard in BLE mode. You can pair either/both halves with the host as independent half-keyboards, or you can connect the two halves together with the TRRS cable and configure either half to communicate with the host as a single full keyboard. 
