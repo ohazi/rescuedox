@@ -13,7 +13,7 @@ A horizontally staggered split keyboard that uses a complete set of Ergodox keyc
 ### Story?
 In a fit of carpal tunnel induced wrist pain, I decided to try an ergonomic split keyboard. At the time, Ergodox was one of the more popular split keyboard designs on [r/mk](https://www.reddit.com/r/MechanicalKeyboards/). Parts and (good) complete keycap sets were relatively easy to find, which was important because I really didn't want to go hunting for individual oddly-sized keycaps in oddly-specific colors and profiles to make a complete set. 
 
-I over-eagerly bought a nice set of Ergodox keycaps ([SA Vilebloom](http://www.mechsupply.co.uk/product/sa-vilebloom)) before actually trying the Ergodox keyboard and realizing that I actually can't stand using it. 
+I over-eagerly bought a nice set of Ergodox keycaps ([SA Vilebloom](http://www.mechsupply.co.uk/product/sa-vilebloom)) before actually trying an Ergodox keyboard and realizing that I actually can't stand using it. 
 
 #### What's wrong with Ergodox?
 1. The columnar stagger doesn't actually help with wrist pain
