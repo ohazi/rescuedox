@@ -50,7 +50,7 @@ The arrow cluster currently uses the correct profile (R3 for left, down, right, 
 Judging by the shiny worn-out spot on the spacebar of my current keyboard, I mostly use my left thumb for space, centered below `v`, and extending halfway across `c` and `b`, so I'm placing a half-spacebar there, and hoping that still works when the keyboard is split and slanted. I'm not super confident that this is still a good spot -- it seems like ofsetting the spacebar keys outwards and downwards (like on Ergodox) may be better. Keeping my thumb too far inwards does seem to hold some tension in my wrist. 
 
 
-## Design
+## Design Ideas
 
 - Wired USB or Bluetooth
 
